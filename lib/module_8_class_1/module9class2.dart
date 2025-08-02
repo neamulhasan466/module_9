@@ -28,7 +28,7 @@ class Module9Class2 extends StatelessWidget {
                   SizedBox(height: 10),
                   Text(
                     'Flutter Drawer',
-                    style: TextStyle(color: Colors.red),
+                    style: TextStyle(color: Colors.white),
                   ),
                 ],
               ),
